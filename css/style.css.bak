@@ -778,9 +778,9 @@ li {
     background: transparent;
     border: 0;
     outline: 0;
-    color: #000;
+    color: #f1f1f1;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Open Sans', sans-serif;
     padding-bottom: 15px;
     margin-bottom: 40px;
@@ -789,9 +789,9 @@ li {
 }
 
 .form_contant form textarea {
-    color: #000;
+    color: #F1F1F1;
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Open Sans', sans-serif;
     width: 100%;
     background: transparent;
